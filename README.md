@@ -14,8 +14,6 @@
 **prescriptions, lab reports, symptoms, medicines and nearby care — all in one place.**
 
 [🚀 Live App](https://medicare-ai.streamlit.app/) &nbsp;•&nbsp;
-[📂 Repository](https://github.com/DHAMMADEEPRAMTEKE30/medicare-ai) &nbsp;•&nbsp;
-[🐛 Report Bug](https://github.com/DHAMMADEEPRAMTEKE30/medicare-ai/issues)
 
 ---
 
