@@ -13,7 +13,7 @@
 **A full-stack AI medical assistant that helps normal people understand their health —**
 **prescriptions, lab reports, symptoms, medicines and nearby care — all in one place.**
 
-[🚀 Live App](https://medicare-ai.streamlit.app/) &nbsp;•&nbsp;
+[🚀 Live App](https://medicare-ai.streamlit.app/)
 
 ---
 
