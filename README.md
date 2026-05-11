@@ -263,6 +263,10 @@ This project is licensed under the MIT License — free to use, modify, and dist
 
 ⭐ If you found this useful, please star the repository!
 
+[🚀 Try the Live App](https://medicare-ai.streamlit.app/)
+
+</div>
+
 ## 👤 Author
 
 **Dhammadeep Anil Ramteke**
@@ -272,7 +276,3 @@ This project is licensed under the MIT License — free to use, modify, and dist
 - 📧 Email: ramtekedhamma30@gmail.com / dhammadeepramteke2702@gmail.com
 
 ---
-
-[🚀 Try the Live App](https://medicare-ai.streamlit.app/)
-
-</div>
